@@ -6,3 +6,5 @@ Print ("hello World")
 ## Assignment 1
 
 The goal of this assignment is to get you familiar with Python. You will write a Python program that displays `Hello World` as standard output.
+
+I want to see how this looks. 
