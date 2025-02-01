@@ -8,3 +8,4 @@ Print ("hello World")
 The goal of this assignment is to get you familiar with Python. You will write a Python program that displays `Hello World` as standard output.
 
 I want to see how this looks. 
+Why does it have () around "hello world"
